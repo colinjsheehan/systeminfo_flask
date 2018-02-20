@@ -1,5 +1,5 @@
 from flask import Flask
 
-app = Flask(__name__,template_folder='templates')
-app.debug=True
+app = Flask(__name__,template_folder='/systeminfo_flask/app/templates')
+app.debug=False
 from app import views
