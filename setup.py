@@ -1,6 +1,6 @@
 # from flask documentation
 # entry points from Aongus' slides
-from setuptools import setup
+from setuptools import setup,find_packages
 setup(
     version=1,
     name='systeminfo_flask',
