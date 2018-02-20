@@ -7,4 +7,4 @@ def index():
     returnDict = {}
     returnDict['user'] = sysinfo.get_platform_info()
     returnDict['title'] = 'Home'
-    return render_template("index.html", **returnDict)
+    return render_template("home.html", **returnDict)
