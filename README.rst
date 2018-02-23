@@ -25,8 +25,13 @@ Python Boilerplate contains all the boilerplate you need to create a Python pack
 
 Features
 --------
-
+This is a flask application that gives information of your system on your browser.
 * TODO
+
+Steps:
+
+  1. Clone from git
+  2. Run console script `platform_info`
 
 Credits
 -------
