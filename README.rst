@@ -31,7 +31,7 @@ This is a flask application that gives information of your system on your browse
 Steps:
 
   1. Clone from git
-  2. Run console script `platform_info`
+  2. Run console script ``platform_info``
 
 Credits
 -------
